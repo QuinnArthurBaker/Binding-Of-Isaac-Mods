@@ -1,0 +1,6 @@
+[submodule "Improved-Hagalaz-Mod"]
+	path = Improved-Hagalaz-Mod
+	url = https://github.com/zack-baker/Improved-Hagalaz-Mod
+[submodule "Reroll-Dice-Expire-Mod"]
+	path = Reroll-Dice-Expire-Mod
+	url = https://github.com/zack-baker/Reroll-Dice-Expire-Mod
