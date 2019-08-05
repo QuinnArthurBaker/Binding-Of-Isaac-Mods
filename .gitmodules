@@ -4,3 +4,6 @@
 [submodule "Reroll-Dice-Expire-Mod"]
 	path = Reroll-Dice-Expire-Mod
 	url = https://github.com/zack-baker/Reroll-Dice-Expire-Mod
+[submodule "The-D2"]
+	path = The-D2
+	url = https://github.com/zack-baker/The-D2
